@@ -1,0 +1,8 @@
+# Excluimos los ejectubales de C
+
+
+*. out
+
+#excluye los de vim
+
+*. swp
